@@ -1,0 +1,36 @@
+{
+    "cursos": [
+      {
+        "id": 1,
+        "nombre": "Desarrollo Web",
+        "descripcion": "Aprende a crear aplicaciones web modernas.",
+        "duracion": 8,
+        "precio": 500000,
+        "fechaInicio": "2023-11-01T09:00:00Z",
+        "docenteId": 1
+      },
+      {
+        "id": 2,
+        "nombre": "JavaScript Avanzado",
+        "descripcion": "Domina JavaScript y sus frameworks.",
+        "duracion": 6,
+        "precio": 400000,
+        "fechaInicio": "2023-12-01T10:00:00Z",
+        "docenteId": 2
+      }
+    ],
+    "docentes": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "documento": "123456789",
+        "correo": "juan@example.com"
+      },
+      {
+        "id": 2,
+        "nombre": "María Gómez",
+        "documento": "987654321",
+        "correo": "maria@example.com"
+      }
+    ]
+  }
